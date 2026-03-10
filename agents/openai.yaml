@@ -1,0 +1,5 @@
+interface:
+  display_name: "QE Analysis"
+  short_description: "Analyze and compare QE result directories"
+  brand_color: "#0F766E"
+  default_prompt: "Use $qe-analysis to analyze or compare Quantum ESPRESSO result directories."

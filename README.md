@@ -1,5 +1,7 @@
 # qe-analysis
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/qe-analysis/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/qe-analysis/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/qe-analysis?display_name=tag)](https://github.com/chatmaterials/qe-analysis/releases)
+
 Standalone skill for post-run Quantum ESPRESSO result analysis and multi-run comparison.
 
 ## Install
